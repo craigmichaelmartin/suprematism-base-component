@@ -32,5 +32,8 @@ npm install
 TITLE_CASE='Cool Thingy' SENTENCE_CASE='cool thingy' PASCAL_CASE=CoolThingy KEBAB_CASE=cool-thingy npm run convert
 ```
 
+#### Branching
+This repo has a develop branch which keeps history, and a master branch which is a single commit rebase of develop.
+
 #### Is this really the best way to do this?
 Nope, not at all. But it is a way, while a more elegant way is developed.
